@@ -2,10 +2,6 @@
 ### *A Data Structures Project in C using Linked Lists & Graphs*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/github-readme-banner/main/banner.png" alt="Project Banner" width="800">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg">
   <img src="https://img.shields.io/badge/Data%20Structures-Linked%20List%20%7C%20Graph-brightgreen">
   <img src="https://img.shields.io/badge/Project%20Type-College%20Mini%20Project-purple">
